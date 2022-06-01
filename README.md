@@ -11,5 +11,8 @@ Creación de página web wordpress desde recursos de Azure
 
 ##Pasos
 
-Se inicia sesión en la página de [Azure](https://portal.azure.com/)
-![Inicio Azure](https://github.com/AlanAlvaradoR/Azure-practica-1-WordPress/blob/main/imagenes/inicio Azure.png)
+-Se inicia sesión en la página de [Azure](https://portal.azure.com/)
+![Inicio Azure](https://github.com/AlanAlvaradoR/Azure-practica-1-WordPress/blob/main/imagenes/inicio%20Azure.PNG)
+
+-Se busca "Marketplace en el buscador superior"
+![P1-1](https://github.com/AlanAlvaradoR/Azure-practica-1-WordPress/blob/main/imagenes/P1-1.PNG)
