@@ -1,7 +1,7 @@
 # Azure-practica-1-WordPress
 Creación de página web wordpress desde recursos de Azure
 
-<center>![Logo de Wordpress](https://github.com/AlanAlvaradoR/Azure-practica-1-WordPress/blob/main/imagenes/wordpress.png)</center>
+![Logo de Wordpress](https://github.com/AlanAlvaradoR/Azure-practica-1-WordPress/blob/main/imagenes/wordpress.png)
 
 ## Requisitos
 
@@ -25,8 +25,6 @@ Creación de página web wordpress desde recursos de Azure
 ![P1-2](https://github.com/AlanAlvaradoR/Azure-practica-1-WordPress/blob/main/imagenes/P1-2.PNG)
 
 - En la barra de búsqueda del marketplace se busca "wordpress" y se presiona enter
-
-<center>https://github.com/AlanAlvaradoR/Azure-practica-1-WordPress/blob/main/imagenes/P1-3.PNG</center>
 
 ![P1-3](https://github.com/AlanAlvaradoR/Azure-practica-1-WordPress/blob/main/imagenes/P1-3.PNG)
 
