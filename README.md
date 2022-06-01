@@ -27,6 +27,7 @@ Creación de página web wordpress desde recursos de Azure
 - En la barra de búsqueda del marketplace se busca "wordpress" y se presiona enter
 
 <center>https://github.com/AlanAlvaradoR/Azure-practica-1-WordPress/blob/main/imagenes/P1-3.PNG</center>
+
 ![P1-3](https://github.com/AlanAlvaradoR/Azure-practica-1-WordPress/blob/main/imagenes/P1-3.PNG)
 
 - Se selecciona la opción dada por el desarrollador "Wordpress"
