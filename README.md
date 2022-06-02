@@ -58,7 +58,7 @@ se le coloca un nombre (el cual será el nombre para el nuevo grupo de recursos)
 
 ![P1-10](https://github.com/AlanAlvaradoR/Azure-practica-1-WordPress/blob/main/imagenes/P1-10.PNG)
 
-- Se mostrará una ventana como la siguiente qu eindica que la creación del recurso esta en proceso:
+- Se mostrará una ventana como la siguiente que indica que la creación del recurso esta en proceso:
 
 ![P1-11](https://github.com/AlanAlvaradoR/Azure-practica-1-WordPress/blob/main/imagenes/P1-11.PNG)
 
